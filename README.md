@@ -1,4 +1,4 @@
-### Hi there, I am Mushiur Rahman ::nerd_face:
+### Hi there, I am Mushiur Rahman 
 
 
 ### :man_technologist: Ambitious, Problem Solver and Lifelong Learner :v:
