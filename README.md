@@ -1,63 +1,62 @@
-### Hi there, I am Mushiur Rahman 
+# Hi, I'm Mushiur Rahman 👋
 
+**Aspiring PhD Researcher** · AI × Cybersecurity · Dhaka, Bangladesh
 
-### :man_technologist: Ambitious, Problem Solver and Lifelong Learner :v:
+I'm building research-grade projects at the intersection of machine learning and cybersecurity, targeting PhD admissions. My work explores adversarial robustness, LLM-powered security analysis, privacy-preserving ML, and deep learning for malware — each project structured like a mini research paper with reproducible experiments, explainability, and technical write-ups.
 
-- 🌱 Exploring projects & Learning more about web3
-- 👯 looking to collaborate on other content creator
-- 🌬️ I solve problems on various online judge like HackerRank, Beecrowd, Codeforce etc.
-- 📬 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushiur-rahman-rifat/)
-- ⚡ Fun fact: I love to draw and play mobile games
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushiur-rahman-rifat/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mushiur.rahman09@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
-### :iphone: Connect with me
+---
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mushiur.rahman09@gmail.com?subject=[GitHub]%20Source%20Rifat%20Rahman)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushiur-rahman-rifat/)
-[![Discord Badge](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+## 🔬 Research Portfolio — AI × Cybersecurity
 
-### :hammer_and_wrench: Languages and Tools
+| # | Project | Area | Status |
+|:-:|---------|------|:------:|
+| 1 | [**Adversarial Malware Detection with Explainability**](https://github.com/mushiur/adversarial-malware-detection) | Adversarial ML + XAI | 🔧 In Progress |
+| 2 | [**LLM-Powered Vulnerability Detection in Source Code**](https://github.com/mushiur/llm-vuln-detection) | NLP + Security | ⏳ Upcoming |
+| 3 | [**Network Intrusion Detection using Federated Learning**](https://github.com/mushiur/federated-intrusion-detection) | Privacy-Preserving ML | ⏳ Upcoming |
+| 4 | [**Automated API Vulnerability Scanner with ML Triage**](https://github.com/mushiur/api-vuln-scanner) | Applied Security + ML | ⏳ Upcoming |
+| 5 | [**Deep Learning for Binary Analysis / Malware Family Classification**](https://github.com/mushiur/malware-binary-classifier) | Systems Security + DL | ⏳ Upcoming |
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb"  alt="Mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+> Each repo includes: problem statement, methodology, experiments, results analysis, SHAP/LIME explainability (where applicable), and a 4–6 page technical write-up.
 
-</div>
+---
 
-<!-- <details open>
-  <summary><b>More about me</b></summary>
- -->
+## 🎯 Research Interests
 
-### :key: Check out my work
+- **Adversarial Machine Learning** — robustness of ML-based security tools against evasion attacks
+- **LLMs for Security** — applying large language models to vulnerability detection and code analysis
+- **Privacy-Preserving ML** — federated learning and differential privacy for collaborative threat detection
+- **Malware Analysis** — deep learning on binary features for automated malware family classification
 
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mushiur)
-[![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/mushiur)
+---
 
+## 🛠️ Tech Stack
 
-### :fire: My Stats :
+**ML / DL:** PyTorch · LightGBM · XGBoost · scikit-learn · Hugging Face Transformers · PEFT (LoRA/QLoRA)
+**Explainability:** SHAP · LIME
+**Federated Learning:** Flower (flwr) · Opacus (Differential Privacy)
+**Security Tools:** Semgrep · Radare2 · pefile · EMBER · CICIDS2017
+**Languages:** Python · Java · JavaScript
+**Other:** Docker · Git · LaTeX · matplotlib · seaborn
+
+---
+
+## 📊 GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mushiur&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<!--
-**@mushiur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧩 Other Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/mushiur)
+[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-040404?style=flat&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/mushiur)
+
+I also enjoy competitive programming on HackerRank, Beecrowd, and Codeforces — and outside of code, I like to draw and play mobile games.
+
+---
+
+*Open to research collaboration and PhD opportunities. Feel free to reach out.*
