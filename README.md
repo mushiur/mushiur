@@ -11,7 +11,7 @@
 
 ### :iphone: Connect with me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rifat1520154@gmail.com?subject=[GitHub]%20Source%20Rifat%20Rahman)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mushiur.rahman09@gmail.com?subject=[GitHub]%20Source%20Rifat%20Rahman)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushiur-rahman-rifat/)
 [![Discord Badge](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
